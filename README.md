@@ -1,4 +1,4 @@
-# Terraform AWS EC2 Instance
+# Terraform AWS EC2 Instance Using Variables
 
 This project uses [Terraform](https://www.terraform.io/) to provision a simple EC2 instance on AWS.
 
